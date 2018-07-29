@@ -1,0 +1,8 @@
+/home/spark/eclipse-workspace/hbaseMapReduce/src/main/java/com/gtensor/stack/readprop/PropReader.java
+/home/spark/eclipse-workspace/hbaseMapReduce/src/main/java/com/gtensor/stack/hbase/mr/Tab2TabMapReduce.java
+/home/spark/eclipse-workspace/hbaseMapReduce/src/main/java/com/gtensor/stack/hbase/mr/csv2HbaseMapReduce.java
+/home/spark/eclipse-workspace/hbaseMapReduce/src/main/java/com/gtensor/stack/HDFS/HadoopUtil.java
+/home/spark/eclipse-workspace/hbaseMapReduce/src/main/java/com/gtensor/stack/hbase/mr/HDFS2TabMapReduce.java
+/home/spark/eclipse-workspace/hbaseMapReduce/src/main/java/com/gtensor/stack/hbase/mr/HFile2TabMapReduce.java
+/home/spark/eclipse-workspace/hbaseMapReduce/src/main/java/com/gtensor/stack/hbase/oper/HBaseTest.java
+/home/spark/eclipse-workspace/hbaseMapReduce/src/main/java/com/gtensor/stack/HDFS/HadoopOper.java
